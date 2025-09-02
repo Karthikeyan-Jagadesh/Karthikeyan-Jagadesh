@@ -5,7 +5,7 @@
 
 ---
 
-<img src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" width="600">
+<img src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" width="300">
 
 
 ## 👨‍🎓 About Me  
