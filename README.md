@@ -1,10 +1,10 @@
 # Hi there 👋, It's me Karthikeyan Jagadesh
-<img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif">
+<img align="right" width="300" height="200" src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif">
 
 💻 Passionate about programming, problem solving, and full stack development.  
 🚀 Exploring Python projects, web development, and open-source contributions.  
 
-
+---
 
 ## 👨‍🎓 About Me  
 - 👀 I’m interested in Designing Websites and Webpages.  
