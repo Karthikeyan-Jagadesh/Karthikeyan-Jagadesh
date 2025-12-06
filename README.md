@@ -17,7 +17,7 @@
 
 ---
 
-## 🚩 Things to be Done by 2026  
+## 🚩 Things to be Done   
 - [ ] Become a Full Stack Developer  
 - [ ] Become a UI/UX Designer  
 
@@ -26,7 +26,7 @@
 ## 🔧 Technologies & Skills  
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Python, Flask/Django (learning)  
-- **Databases:** MySQL, SQLite  
+- **Databases:** MySQ  
 - **Tools:** Git, GitHub, VS Code  
 - **Languages:** C, C++, Python  
 
