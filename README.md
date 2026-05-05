@@ -1,47 +1,69 @@
-# Hi there 👋, It's me Karthikeyan Jagadesh 
+# Hey, I'm Karthikeyan 👋
 
-💻 Passionate about programming, problem solving, and full stack development.  
-🚀 Exploring Python projects, web development, and open-source contributions.  
+I'm a Computer Science student at PSG College of Technology, Coimbatore —
+building full stack web apps and writing cleaner code every day.
+I care about making things that actually work, not just things that 
+look good on a resume.
 
----
-
-<img src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" width="300">
-
-
-## 👨‍🎓 About Me  
-- 👀 I’m interested in Designing Websites and Webpages.  
-- 🌱 I’m currently learning Full Stack Development.  
-- 🎓 Pursuing **BSc in Computer Systems and Design** at **PSG College of Technology**.  
-- ⚡ *“The purpose of life is to contribute in some way to making things better.” — Robert F. Kennedy*  
-- 🔭 My purpose is to combine technical skills with innovative solutions to create value and grow continuously with technology.  
+Currently open to **freelance & remote opportunities** in full stack 
+or backend development.
 
 ---
 
-## 🚩 Things to be Done   
-- [ ] Become a Full Stack Developer  
-- [ ] Become a UI/UX Designer  
+## 🛠️ What I Work With
+
+**Frontend:** HTML, CSS, JavaScript
+**Backend:** Java, Spring Boot, Node.js, Express.js
+**Database:** Oracle DB, MySQL
+**Tools:** Git, GitHub, VS Code, Maven
+**Languages:** Java, JavaScript, Python, C, C++
 
 ---
 
-## 🔧 Technologies & Skills  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Python, Flask/Django (learning)  
-- **Databases:** MySQ  
-- **Tools:** Git, GitHub, VS Code  
-- **Languages:** C, C++, Python  
+## 🚀 Projects
+
+### 🔹 [Location Alarm Tracker](https://github.com/Karthikeyan-Jagadesh/Location-Alarm-Tracker)
+A travel app that tracks your live GPS location and alerts you before 
+you reach your destination — so you never miss your stop.
+Built with Java Spring Boot, Leaflet maps, and Oracle DB.
+
+**Stack:** Java · Spring Boot · Oracle DB · Leaflet · OpenStreetMap · Thymeleaf
 
 ---
 
-## 📂 Featured Projects  
-- 🐍 [Python Projects](https://github.com/Karthikeyan-Jagadesh/Python-Projects)  
-- 🌐 [Full Stack Projects](https://github.com/Karthikeyan-Jagadesh/Full-Stack-Projects)  
+### 🔹 [Todo Management System](https://github.com/Karthikeyan-Jagadesh/Todo-Management-System)
+A full-stack task manager with separate user and admin portals,
+JWT authentication, bcrypt password hashing, and an interactive 
+calendar UI.
+
+**Stack:** Node.js · Express.js · Oracle DB · JavaScript · JWT · bcryptjs
 
 ---
 
-## 📬 Connect with Me  
-- 📍 Coimbatore, India  
-- 📧 [Email Me](mailto:karthikeyanjagadesh34@gmail.com)  
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/karthikeyan-jagadesh-88822833a/)  
-- 🐙 [GitHub Profile](https://github.com/Karthikeyan-Jagadesh)  
+### 🔹 [Pet Adoption Center](https://github.com/Karthikeyan-Jagadesh/Pet-Adoption-Center)
+A multi-page frontend website for a pet adoption center —
+built from scratch with responsive design across all devices.
+
+**Stack:** HTML · CSS (Flexbox, Grid)
 
 ---
+
+## 📌 Currently Working On
+
+Deploying Location Alarm Tracker and adding JavaScript interactivity 
+to the Pet Adoption Center.
+Goal: ship it, deploy it, write about it.
+
+---
+
+## 📬 Let's Connect
+
+I'm always up for interesting conversations, collaboration, or opportunities.
+
+- 📧 karthikeyanjagadesh34@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/karthikeyan-jagadesh-88822833a/)
+- 📍 Coimbatore, India · Available for remote work
+
+---
+
+*"Ship it. Improve it. Repeat."*
