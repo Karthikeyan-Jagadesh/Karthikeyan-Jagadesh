@@ -91,6 +91,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikeyan-Jagadesh&theme=tokyo-night&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Karthikeyan-Jagadesh&theme=tokyonight&hide_border=true"/>
+</p>
+
 ---
 
 ## ~/contact $
