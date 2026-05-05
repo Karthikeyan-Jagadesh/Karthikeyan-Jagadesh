@@ -1,8 +1,15 @@
-<h1 align="center">Hey, I'm Karthikeyan 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Karthikeyan+%F0%9F%91%8B;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Node.js;Building+things+that+actually+work." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Karthikeyan-Jagadesh&style=for-the-badge&color=6DB33F"/>
+</p>
 
 <p align="center">
   Full Stack Developer · PSG College of Technology, Coimbatore <br/>
-  I build things that actually work — not just things that look good on a resume.
+  I build things that actually work — not just things that look good on a resume. <br/>
+  Open to <strong>freelance & remote opportunities</strong> in full stack or backend development.
 </p>
 
 <p align="center">
@@ -72,6 +79,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Karthikeyan-Jagadesh&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeyan-Jagadesh&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Karthikeyan-Jagadesh&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikeyan-Jagadesh&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
