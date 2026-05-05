@@ -8,7 +8,7 @@
 
 <p align="center">
   Full Stack Developer · PSG College of Technology, Coimbatore <br/>
-  I build things that actually work — not just things that look good on a resume. <br/>
+  I build things that actually work , not just things that look good on a resume. <br/>
   Open to <strong>freelance & remote opportunities</strong> in full stack or backend development.
 </p>
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ What I Work With
+## ~/stack $
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -44,10 +44,10 @@
 
 ---
 
-## 🚀 Projects
+## ~/projects $
 
 ### 🔹 [Location Alarm Tracker](https://github.com/Karthikeyan-Jagadesh/Location-Alarm-Tracker)
-> A travel app that tracks your live GPS location and alerts you before you reach your destination — so you never miss your stop.
+> A travel app that tracks your live GPS location and alerts you before you reach your destination , so you never miss your stop.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -74,16 +74,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## ~/building $
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthikeyan-Jagadesh&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeyan-Jagadesh&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+- Enhancing **Location Alarm Tracker** — improving alarm accuracy and UI
+- Adding JavaScript interactivity to **Pet Adoption Center** , pet filter & form validation
+- Migrating **Todo Management System** task storage from localStorage to Oracle DB
+- Also , working on a AI workflow 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Karthikeyan-Jagadesh&theme=tokyonight&hide_border=true"/>
-</p>
+> Always building. Always improving.
+
+---
+
+## ~/stats $
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikeyan-Jagadesh&theme=tokyo-night&hide_border=true"/>
@@ -91,15 +93,7 @@
 
 ---
 
-## 📌 Currently Working On
-
-Deploying Location Alarm Tracker · Adding JS interactivity to Pet Adoption Center
-
-> Goal: ship it, deploy it, write about it.
-
----
-
-## 📬 Let's Connect
+## ~/contact $
 
 Open to freelance projects, remote opportunities, and interesting collaborations.
 
