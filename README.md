@@ -13,9 +13,13 @@ or backend development.
 ## 🛠️ What I Work With
 
 **Frontend:** HTML, CSS, JavaScript
+
 **Backend:** Java, Spring Boot, Node.js, Express.js
+
 **Database:** Oracle DB, MySQL
+
 **Tools:** Git, GitHub, VS Code, Maven
+
 **Languages:** Java, JavaScript, Python, C, C++
 
 ---
